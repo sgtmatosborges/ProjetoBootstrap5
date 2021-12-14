@@ -1,6 +1,7 @@
 # ProjetoBootstrap5
-Desenvolvimento de Site Web Static 
+Desenvolvimento de Site Art-Exposição
 
+Em Desenvolvimento !!!
 DESENVOLVER O SITE COM framework bootstrap5
 postar os codigos javascript..as marcações html, e estilização css..
 Documentação, Exemplos de interfaces.
