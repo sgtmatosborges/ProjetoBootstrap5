@@ -6,8 +6,9 @@ postar os codigos javascript..as marcações html, e estilização css..
 Documentação, Exemplos de interfaces.
 
 ##Links Úteis 
-[Sintaxe Basica Bootstrap] 
 
-(https:https://getbootstrap.com/)
+(https://getbootstrap.com/)
+
 (https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+
 (https://getbootstrap.com/docs/5.1/examples/)
