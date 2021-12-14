@@ -3,10 +3,10 @@ Desenvolvimento de Site Web Static
 
 DESENVOLVER O SITE COM framework bootstrap5
 postar os codigos javascript..as marcações html, e estilização css..
+Documentação, Exemplos de interfaces.
 
-##LInks Úteis de Bootstrap download, Documentação, Exemplos de interfaces.
-[sintaxe basica Markdown] (https://getbootstrap.com/)
-
-[Sintaxe basica Markdown] (https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-
-[Sintaxe basica Markdown] (https://getbootstrap.com/docs/5.1/examples/)
+##Links Úteis 
+[Sintaxe Basica Bootstrap] 
+(https://getbootstrap.com/docs/5.1/examples/)
+(https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+(https://getbootstrap.com/docs/5.1/examples/)
