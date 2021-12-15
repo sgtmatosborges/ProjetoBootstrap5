@@ -1,10 +1,9 @@
 # ProjetoBootstrap5
-Desenvolvimento de Site Art-Exposição
+Desenvolvimento de Site Art-Exposição pagina principal
 
-Em Desenvolvimento !!!
-DESENVOLVER O SITE COM framework bootstrap5
-postar os codigos javascript..as marcações html, e estilização css..
-Documentação, Exemplos de interfaces.
+Atualizado e Finalizado!!
+DESENVOLVER O SITE COM framework bootstrap5 CDN ...
+Quem precisar de uma base de modelo de pagina de arte urbana...
 
 ##Links Úteis 
 
